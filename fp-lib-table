@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CodingNinja)(type KiCad)(uri "$(KIPRJMOD)/CodingNinja.pretty")(options "")(descr ""))
+  (lib (name VIA)(type KiCad)(uri "$(KIPRJMOD)/VIA.pretty")(options "")(descr ""))
+)
